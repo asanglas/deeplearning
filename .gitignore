@@ -1,8 +1,7 @@
 **/data/
 **/__pycache__/
 venv
-transformer
-tinygpt
+old
 simplegrad
 nanogpt
 **/checkpoints
