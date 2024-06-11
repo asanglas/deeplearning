@@ -1,7 +1,7 @@
 **/data/
 **/__pycache__/
 venv
-tranformer
+transformer
 tinygpt
 simplegrad
 nanogpt
