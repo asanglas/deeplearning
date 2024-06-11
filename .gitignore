@@ -1,3 +1,8 @@
 **/data/
 **/__pycache__/
-
+venv
+tranformer
+tinygpt
+simplegrad
+nanogpt
+**/checkpoints
