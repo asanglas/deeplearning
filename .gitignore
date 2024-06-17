@@ -5,3 +5,4 @@ old
 simplegrad
 nanogpt
 **/checkpoints
+.DS_Store
